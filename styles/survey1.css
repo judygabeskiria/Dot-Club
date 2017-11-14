@@ -1,0 +1,39 @@
+body{
+background-color:#FFFFFF;
+text-align: center;
+}
+.mred{
+background-color:#8B0000;
+width:100%;
+height:10%;
+position:absolute;
+left:0px;
+top:0px;
+text-align: center;
+}
+li{
+  text-align: center;
+}
+img{
+float:left;
+  display:block;
+  position:absolute;
+  height:100%;
+  width:auto;
+}
+button{
+background-color:#8B0000;
+}
+.b1{
+float:left;}
+.b2{
+float:right;
+}
+
+body > div.card{
+
+  margin:auto;
+}
+p{
+  text-align: center;
+}
